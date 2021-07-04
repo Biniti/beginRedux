@@ -1,0 +1,6 @@
+export const types = {
+  LIGHT_THEME: 'LIGHT_THEME',
+  PUSH_DATA: 'PUSH_DATA',
+  CLEAR_DATA: 'CLEAR_DATA',
+  DELETE_DATA: 'DELETE_DATA',
+}
